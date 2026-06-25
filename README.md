@@ -54,4 +54,8 @@ All my leetcode solutions
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
