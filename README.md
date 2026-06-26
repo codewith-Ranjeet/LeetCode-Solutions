@@ -62,4 +62,8 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
