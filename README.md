@@ -58,4 +58,8 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
