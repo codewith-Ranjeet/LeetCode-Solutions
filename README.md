@@ -15,11 +15,13 @@ All my leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -70,6 +72,7 @@ All my leetcode solutions
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Enumeration
