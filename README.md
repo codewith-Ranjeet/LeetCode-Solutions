@@ -39,6 +39,7 @@ All my leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -70,12 +71,14 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Enumeration
