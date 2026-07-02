@@ -8,6 +8,7 @@ All my leetcode solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -19,6 +20,7 @@ All my leetcode solutions
 | [0005-longest-palindromic-substring](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -95,6 +97,7 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
