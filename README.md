@@ -106,4 +106,20 @@ All my leetcode solutions
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
