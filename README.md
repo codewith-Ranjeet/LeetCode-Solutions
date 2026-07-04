@@ -53,6 +53,7 @@ All my leetcode solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -61,6 +62,7 @@ All my leetcode solutions
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -74,6 +76,7 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 ## Math
 |  |
@@ -124,4 +127,8 @@ All my leetcode solutions
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
