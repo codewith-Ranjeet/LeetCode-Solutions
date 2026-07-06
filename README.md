@@ -10,6 +10,7 @@ All my leetcode solutions
 | [0015-3sum](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [1288-remove-covered-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -140,4 +141,8 @@ All my leetcode solutions
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
