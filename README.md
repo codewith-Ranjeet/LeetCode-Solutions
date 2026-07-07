@@ -6,6 +6,7 @@ All my leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0015-3sum) |
@@ -51,6 +52,7 @@ All my leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
