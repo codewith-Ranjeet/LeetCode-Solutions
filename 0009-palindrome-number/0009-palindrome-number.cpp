@@ -4,13 +4,13 @@ public:
         if (x < 0)
             return false;
 
-        unsigned int rev = 0, num = x;
-        while (num != 0) {
-            rev = rev * 10 + (num % 10);
-            num /= 10;
+        string num = to_string(x);
+        int n = num.size();
+
+        for (int i = 0, j = n - 1; i < j; i++, j--) {
+            if (num[i] != num[j])
+                return false;
         }
-        if (rev == x)
-            return true;
-        return false;
+        return true;
     }
 };
