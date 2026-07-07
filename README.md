@@ -54,6 +54,7 @@ All my leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -96,6 +97,7 @@ All my leetcode solutions
 | [0007-reverse-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -104,6 +106,7 @@ All my leetcode solutions
 | [0006-zigzag-conversion](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Enumeration
