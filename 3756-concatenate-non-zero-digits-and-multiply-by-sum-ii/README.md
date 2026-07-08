@@ -107,3 +107,53 @@
 	<li><code>queries[i] = [l<sub>i</sub>, r<sub>i</sub>]</code></li>
 	<li><code>0 &lt;= l<sub>i</sub> &lt;= r<sub>i</sub> &lt; m</code></li>
 </ul>
+
+<hr>
+
+## Approach
+
+### Precompute
+
+Store three prefix arrays:
+
+* **nonz[i]** → Number of non-zero digits from index `0` to `i-1`.
+* **sum[i]** → Sum of all non-zero digits from index `0` to `i-1`.
+* **x[i]** → Concatenated number formed by all non-zero digits from index `0` to `i-1` (stored modulo `1e9+7`).
+
+Also precompute:
+
+* **pow10[i] = 10^i (mod M)**
+
+### Answering a Query `[l, r]`
+
+1. Find the number of non-zero digits in the substring:
+
+   ```text
+   k = nonz[r + 1] - nonz[l]
+   ```
+
+2. Extract the concatenated non-zero number using prefix values:
+
+   ```text
+   temp = x[r + 1] - x[l] * 10^k
+   ```
+
+   This effectively removes the prefix before `l`, leaving only the required substring.
+
+3. Compute the sum of non-zero digits:
+
+   ```text
+   digitSum = sum[r + 1] - sum[l]
+   ```
+
+4. Answer:
+
+   ```text
+   (temp × digitSum) % MOD
+   ```
+
+### Complexity
+
+* Preprocessing: **O(n)**
+* Each query: **O(1)**
+* Total: **O(n + q)**
