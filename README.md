@@ -83,6 +83,7 @@ All my leetcode solutions
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -102,6 +103,7 @@ All my leetcode solutions
 | [0012-integer-to-roman](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -114,6 +116,7 @@ All my leetcode solutions
 | [0020-valid-parentheses](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
 | ------- |
