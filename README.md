@@ -21,6 +21,7 @@ All my leetcode solutions
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ All my leetcode solutions
 | [0013-roman-to-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -149,10 +151,12 @@ All my leetcode solutions
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -171,6 +175,7 @@ All my leetcode solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Trie
 |  |
 | ------- |
