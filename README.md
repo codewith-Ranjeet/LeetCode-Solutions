@@ -36,6 +36,7 @@ All my leetcode solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -120,6 +121,7 @@ All my leetcode solutions
 | [0013-roman-to-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -184,4 +186,8 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
