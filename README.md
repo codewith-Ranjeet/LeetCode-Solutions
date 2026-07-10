@@ -117,6 +117,7 @@ All my leetcode solutions
 | [0012-integer-to-roman](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -186,6 +187,7 @@ All my leetcode solutions
 | [0021-merge-two-sorted-lists](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
