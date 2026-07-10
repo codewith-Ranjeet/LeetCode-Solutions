@@ -18,6 +18,7 @@ All my leetcode solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [1288-remove-covered-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -67,6 +68,7 @@ All my leetcode solutions
 | [0001-two-sum](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -198,4 +200,8 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
