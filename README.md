@@ -126,6 +126,7 @@ All my leetcode solutions
 | [0050-powx-n](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -211,6 +212,7 @@ All my leetcode solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
