@@ -1,4 +1,12 @@
 class Solution {
+    int gcd(int a, int b){
+        while(b != 0){
+            int r = a % b;
+            a = b;
+            b = r;
+        }
+        return a;
+    }
 public:
     long long gcdSum(vector<int>& nums) {
         int n = nums.size();
