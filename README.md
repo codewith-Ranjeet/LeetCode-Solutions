@@ -51,6 +51,7 @@ All my leetcode solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -83,6 +84,7 @@ All my leetcode solutions
 | [0012-integer-to-roman](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0142-linked-list-cycle-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -126,6 +128,7 @@ All my leetcode solutions
 | [0025-reverse-nodes-in-k-group](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
