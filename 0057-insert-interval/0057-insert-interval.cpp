@@ -3,34 +3,27 @@ public:
     vector<vector<int>> insert(vector<vector<int>>& intervals,
                                vector<int>& newInterval) {
         int n = intervals.size();
-        if(n == 0) return {newInterval};
-
         vector<vector<int>> r;
-        int i = 0;
-        for (; i < n; i++) {
-            if (intervals[i][1] >= newInterval[0]) {
-                if (intervals[i][0] > newInterval[1]) {
-                    r.push_back(newInterval);
-                    newInterval[0] = -1;
-                    break;
-                }
-                int s = min(intervals[i][0], newInterval[0]);
-                while (i < n && newInterval[1] >= intervals[i][0])
-                    i++;
 
-                int e = max(intervals[--i][1], newInterval[1]);
-                r.push_back({s, e});
-                i++;
-                newInterval[0] = -1;
-                break;
+        for (auto& current : intervals) {
+            // current completely before newInterval
+            if (current[1] < newInterval[0])
+                r.push_back(current);
+
+            // newInterval completely before current
+            else if (newInterval[1] < current[0]) {
+                r.push_back(newInterval);
+                newInterval = current;
             }
-            r.push_back(intervals[i]);
+
+            // overlapping
+            else {
+                newInterval[0] = min(current[0], newInterval[0]);
+                newInterval[1] = max(current[1], newInterval[1]);
+            }
         }
 
-        for (; i < n; i++)
-            r.push_back(intervals[i]);
-
-        if(newInterval[0] > 0) r.push_back(newInterval);
+        r.push_back(newInterval);
         return r;
     }
 };
