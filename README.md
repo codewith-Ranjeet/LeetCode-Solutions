@@ -25,6 +25,7 @@ All my leetcode solutions
 | [0051-n-queens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1288-remove-covered-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -255,6 +256,7 @@ All my leetcode solutions
 | ------- |
 | [0036-valid-sudoku](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Backtracking
 |  |
@@ -263,6 +265,7 @@ All my leetcode solutions
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
