@@ -52,6 +52,7 @@ All my leetcode solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -130,6 +131,7 @@ All my leetcode solutions
 | [0024-swap-nodes-in-pairs](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0143-reorder-list) |
