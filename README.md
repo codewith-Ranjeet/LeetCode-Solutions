@@ -56,6 +56,7 @@ All my leetcode solutions
 | [0142-linked-list-cycle-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -171,6 +172,7 @@ All my leetcode solutions
 | [0038-count-and-say](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
