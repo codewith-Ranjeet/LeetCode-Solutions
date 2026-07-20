@@ -30,6 +30,7 @@ All my leetcode solutions
 | [0074-search-a-2d-matrix](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1288-remove-covered-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -256,6 +257,7 @@ All my leetcode solutions
 | [0035-search-insert-position](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
