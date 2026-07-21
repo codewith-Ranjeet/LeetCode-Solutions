@@ -32,6 +32,7 @@ All my leetcode solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0881-boats-to-save-people](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -65,6 +66,7 @@ All my leetcode solutions
 | [0151-reverse-words-in-a-string](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0881-boats-to-save-people](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -90,6 +92,7 @@ All my leetcode solutions
 | [0011-container-with-most-water](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0881-boats-to-save-people](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -209,6 +212,7 @@ All my leetcode solutions
 | [0075-sort-colors](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0881-boats-to-save-people](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
