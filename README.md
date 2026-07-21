@@ -35,6 +35,7 @@ All my leetcode solutions
 | [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -67,6 +68,7 @@ All my leetcode solutions
 | [0165-compare-version-numbers](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0881-boats-to-save-people](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -215,6 +217,7 @@ All my leetcode solutions
 | [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
