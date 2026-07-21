@@ -11,7 +11,8 @@ public:
         int i = 0, e = n - 1;
 
         for (; i < e;) {
-            if (tokens[i] > power && score) {
+            if (tokens[i] > power) {
+                if(!score) break;
                 score--;
                 power += tokens[e--];
             } else {
