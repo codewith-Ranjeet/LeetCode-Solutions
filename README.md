@@ -31,6 +31,7 @@ All my leetcode solutions
 | [0075-sort-colors](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -61,6 +62,7 @@ All my leetcode solutions
 | [0075-sort-colors](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0148-sort-list) |
@@ -212,6 +214,7 @@ All my leetcode solutions
 | [0018-4sum](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0881-boats-to-save-people](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
