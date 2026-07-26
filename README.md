@@ -35,6 +35,7 @@ All my leetcode solutions
 | [0118-pascals-triangle](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -177,6 +178,7 @@ All my leetcode solutions
 | [0066-plus-one](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -227,6 +229,7 @@ All my leetcode solutions
 | [0075-sort-colors](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
