@@ -19,15 +19,6 @@ public:
             }
             d3++;
         }
-
-        if(d1 >= d2 && d1 >= d3){
-            d1 = 0;
-        } else if(d2 >= d1 && d2 >= d3){
-            d2 = 0;
-        } else {
-            d3 = 0;
-        }
-
-        return 2 + d1 + d2 + d3;
+        return 2 + d1 + d2 + d3 - max({d1, d2, d3});
     }
 };
