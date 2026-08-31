@@ -91,6 +91,7 @@ All my leetcode solutions
 | [0118-pascals-triangle](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1143-longest-common-subsequence](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
@@ -209,6 +210,7 @@ All my leetcode solutions
 | [0067-add-binary](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [1143-longest-common-subsequence](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -339,4 +341,8 @@ All my leetcode solutions
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
