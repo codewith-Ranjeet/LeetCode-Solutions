@@ -1,51 +1,32 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        if (!(head->next->next && head->next->next->next))
-            return {-1, -1};
+        int Min = INT_MAX, i = 1;
+        int c[2] = {0, 0};
 
-        ListNode* prev = head;
-        ListNode* curr = head->next;
-        ListNode* next = head->next->next;
+        auto prev = head, curr = head->next, nxt = head->next->next;
 
-        int pos = 2, s = -1, e = -1, c = -1, minDist = INT_MAX;
+        auto isCrit = [&]() {
+            auto x = prev->val, y = curr->val, z = nxt->val;
+            return (x < y && y > z) || (x > y && y < z);
+        };
 
-        while (next) {
-            if ((curr->val < prev->val && curr->val < next->val) ||
-                (curr->val > prev->val && curr->val > next->val)) {
-                if (s == -1) {
-                    s = pos;
-                    e = pos;
-                    next = next->next;
-                    curr = curr->next;
-                    prev = prev->next;
-                    pos++;
-                    continue;
-                }
-                c = e;
-                e = pos;
-
-                minDist = min(minDist, e - c);
+        while (nxt) {
+            if (isCrit()) {
+                if (c[0])
+                    Min = min(Min, i - c[c[1] > 0]);
+                c[c[0] > 0] = i;
             }
-            next = next->next;
-            curr = curr->next;
-            prev = prev->next;
-            pos++;
+
+            prev = curr;
+            curr = nxt;
+            nxt = nxt->next;
+            i++;
         }
 
-        if (c == -1)
-            return {-1, -1};
+        if (c[1])
+            return {Min, c[1] - c[0]};
 
-        return {minDist, e - s};
+        return {-1, -1};
     }
 };
