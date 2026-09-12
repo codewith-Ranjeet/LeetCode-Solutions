@@ -35,6 +35,7 @@ All my leetcode solutions
 | [0118-pascals-triangle](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0347-top-k-frequent-elements](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
@@ -122,6 +123,7 @@ All my leetcode solutions
 | [0013-roman-to-integer](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -135,6 +137,7 @@ All my leetcode solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -149,6 +152,7 @@ All my leetcode solutions
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -239,6 +243,7 @@ All my leetcode solutions
 | [0075-sort-colors](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
@@ -282,6 +287,7 @@ All my leetcode solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
 |  |
@@ -345,4 +351,12 @@ All my leetcode solutions
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
