@@ -6,16 +6,16 @@ public:
         for (int x : nums) {
             freq[x]++;
         }
-        vector<pair<int,int>> hash(freq.begin(), freq.end());
-
-        sort(hash.begin(), hash.end(), [](const auto& a, const auto& b) {
-            return a.second > b.second;
-        });
-
+        
+        vector<vector<int>> bucket(n+1);
+        for(auto &[key, val] : freq){
+            bucket[val].push_back(key);
+        }
+        
         vector<int> res;
-        for (int i = 0; i < k; i++)
-            res.push_back(hash[i].first);
-
+        for(int i = n; i >= 0 && res.size() < k; i--){
+            for(int num : bucket[i]) res.push_back(num);
+        }
         return res;
     }
 };
