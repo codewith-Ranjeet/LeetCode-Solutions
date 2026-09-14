@@ -190,6 +190,7 @@ All my leetcode solutions
 | [0066-plus-one](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0507-perfect-number](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
