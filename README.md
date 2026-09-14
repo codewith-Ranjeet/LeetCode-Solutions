@@ -37,6 +37,7 @@ All my leetcode solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0347-top-k-frequent-elements](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -327,6 +328,7 @@ All my leetcode solutions
 | [0048-rotate-image](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/codewith-Ranjeet/LeetCode-Solutions/tree/master/0835-image-overlap) |
 ## Backtracking
 |  |
 | ------- |
